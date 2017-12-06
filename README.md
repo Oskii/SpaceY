@@ -1,9 +1,9 @@
-GELF
+SpaceY
 ============
 
-https://GELF.org
+https://Space-Y.io
 
-What is GELF?
+What is SpaceY?
 ---------------------
 
 ...coming soon...
@@ -11,14 +11,14 @@ What is GELF?
 License
 -------
 
-GELF is released under the terms of the MIT license. See [COPYING](COPYING) for more
+SpaceY is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Credits
 -------
 
-GELF was kind of forked from Bitcoin Core, more specifically from PlusOneCoin
+SpaceY was kind of forked from Bitcoin Core, more specifically from PlusOneCoin
 * [bitcoin](https://github.com/bitcoin/bitcoin)
 * [CryptoCoderz](https://github.com/CryptoCoderz/Espers.git) HMQ1725
 * [PlusOneCoin](https://github.com/plusonecoin/plusonecoin)
-* [GELF](https://github.com/GELF/GELF)
+* [SpaceY](https://github.com/SpaceY/SpaceY)
